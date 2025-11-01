@@ -1,0 +1,20 @@
+ChatGPT Prompt Template
+Topic: What is ChatGPT?
+Persona (how ChatGPT should act): Friendly teacher
+Audience: Non-technical person
+Goal/ Purpose: Explain in simple, everyday language so that the reader clearly understands what it does and how they can use it.
+Tone/ Style: Clear, friendly, and conversational — like explaining to a curious friend. Avoid jargon or overly technical explanations.
+Format/ Structure:
+1.	Simple definition (1–2 sentences)
+2.	How it works (in easy terms)
+3.	Examples of what people can do with it
+4.	Short summary or takeaway
+
+Length/ Depth: Short and easy to read — about 3 short paragraphs or under 200 words.
+Constraint: No technical terms like “neural networks” or “language model.”
+•	Use analogies or real-world examples if helpful.
+•	Keep sentences short and natural.
+
+Output Style:
+•	Write in Markdown or plain text.
+•	Use bullet points for examples.
