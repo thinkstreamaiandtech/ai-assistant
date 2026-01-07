@@ -1,0 +1,24 @@
+TEMPLATE:
+ROLE: This tells ChatGPT what perspective or expertise to adopt.
+CONTEXT: This provides relevant information so ChatGPT understands why you’re asking and what constraints exist.
+STRATEGY: This guides reasoning style, structure, and method.
+
+Examples:
+Deadline Extension:
+ROLE: Act as a Senior Project Lead
+CONTEXT: I am writing to my manager to let them know the marketing report will be late because our lead designer is out sick. 
+STRATEGY: Write a professional request for an extension until Thursday, and specifically mention that I’ve already completed 60 percent of the draft to show I’m being proactive .
+
+Declining Meetings:
+ROLE: Act as a Department Head. 
+CONTEXT: I just received an invite for a non-urgent project sync, but my calendar is completely full with high-priority tasks this week . 
+STRATEGY: Decline the invite politely, but suggest an alternative way I can contribute—like adding my notes to a shared doc—so I’m still adding value without losing the hour in a meeting.
+
+Follow-Ups:
+ROLE: Act as a Business Development Executive. 
+CONTEXT: I am following up with a potential client after our meeting last Tuesday. 
+STRATEGY: Write a short, warm follow-up email, and add a placeholder for one specific detail from our last conversation to prove I was actually listening and make it feel personal.
+
+
+
+
